@@ -5,7 +5,7 @@ import sys
 # Initialize SQS client
 sqs = boto3.client('sqs', region_name='us-west-1')
 
-# Use your specific Queue URL
+# Use specific Queue URL
 queue_url = 'https://sqs.us-west-1.amazonaws.com/783764616269/unique-queue-12345'
 
 def send_message(queue_url, message_body):
