@@ -1,0 +1,51 @@
+Test Name: Add_PositiveNumbers_ReturnsCorrectSum
+Result: Passed
+Elapsed Time: 0.005s
+
+Test Name: Add_NegativeNumbers_ReturnsCorrectSum
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Add_PositiveAndNegative_ReturnsCorrectSum
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Subtract_PositiveNumbers_ReturnsCorrectDifference
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Subtract_NegativeNumbers_ReturnsCorrectDifference
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Subtract_PositiveAndNegative_ReturnsCorrectDifference
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Multiply_PositiveNumbers_ReturnsCorrectProduct
+Result: Passed
+Elapsed Time: 0.005s
+
+Test Name: Multiply_NegativeNumbers_ReturnsCorrectProduct
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Multiply_PositiveAndNegative_ReturnsCorrectProduct
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Divide_PositiveNumbers_ReturnsCorrectQuotient
+Result: Passed
+Elapsed Time: 0.005s
+
+Test Name: Divide_NegativeNumbers_ReturnsCorrectQuotient
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Divide_PositiveAndNegative_ReturnsCorrectQuotient
+Result: Passed
+Elapsed Time: 0.004s
+
+Test Name: Divide_ByZero_ThrowsDivideByZeroException
+Result: Passed
+Elapsed Time: 0.003s

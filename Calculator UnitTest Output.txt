@@ -1,0 +1,10 @@
+Visual Studio Test Explorer :
+
+12 tests passed (0 failed, 0 skipped)
+Run time: 0.023 seconds
+
+possible Errors :
+
+Test Name: Add_PositiveNumbers_ReturnsCorrectSum
+Result: Failed
+Error Message: Addition of positive numbers failed.
