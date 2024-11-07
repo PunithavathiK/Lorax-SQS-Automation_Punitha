@@ -22,3 +22,13 @@ Message sent successfully. Message ID: e02bf461-5431-4b5d-888b-fda6b29eac1e
 Message received successfully.
 Test passed: Sent and received messages match.
 Message deleted successfully.
+
+JSON TESTING : 
+File Program-Copy.cs file contains the code for JSON Testing of Instantiate, Deserialization, etc..
+File Lorax JSON File Output is the output of the JSON Testing
+
+Calculator Automation Testing
+File Program.cs contains code for simple calculator arithmetic operations and Calculator Class Output file contains the output for the same.
+File UntiTest1.cs contains the code for Calculator Unit test framework testing and the file "Calculator UnitTest Output" contains the output for the same.
+
+
