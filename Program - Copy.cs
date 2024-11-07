@@ -49,7 +49,7 @@ public class Program
             Console.WriteLine($"YearId: {item.YearId}, CountryId: {item.CountryId}, Cost: {item.Cost}");
         }
 
-        // Path to your JSON file
+        // Path to the JSON file
         string filePath = @"C:\Users\HP\source\repos\Lorax C# CostAnalysis\Lorax C# CostAnalysis\data.json"; 
 
         // Deserialize the JSON data into a list of CostAnalysisItem objects
